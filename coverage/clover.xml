@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692511709274" clover="3.2.0">
+  <project timestamp="1692511709274" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="16" coveredconditionals="12" methods="15" coveredmethods="13" elements="62" coveredelements="56" complexity="0" loc="31" ncloc="31" packages="3" files="6" classes="6"/>
+    <package name="RN-Timer">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <file name="App.js" path="/Users/bjatta/RN-Timer/App.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="RN-Timer.src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Main.tsx" path="/Users/bjatta/RN-Timer/src/Main.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="RN-Timer.src.Timer">
+      <metrics statements="26" coveredstatements="26" conditionals="14" coveredconditionals="11" methods="12" coveredmethods="11"/>
+      <file name="Action.tsx" path="/Users/bjatta/RN-Timer/src/Timer/Action.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="7" coveredconditionals="4" methods="2" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="8" count="72" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+      <file name="Timer.tsx" path="/Users/bjatta/RN-Timer/src/Timer/Timer.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="23" type="stmt"/>
+        <line num="11" count="23" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="TimerValue.tsx" path="/Users/bjatta/RN-Timer/src/Timer/TimerValue.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="10" count="25" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+      </file>
+      <file name="useTimer.tsx" path="/Users/bjatta/RN-Timer/src/Timer/useTimer.tsx">
+        <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="28" type="stmt"/>
+        <line num="5" count="28" type="stmt"/>
+        <line num="6" count="28" type="stmt"/>
+        <line num="7" count="28" type="stmt"/>
+        <line num="9" count="28" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="28" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="28" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="22" count="28" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
