@@ -31,6 +31,7 @@ const styles = StyleSheet.create({
     borderWidth: 2,
     padding: 10,
     marginTop: 10,
+    marginBottom: 10,
   },
   actionsRow: { flexDirection: "row", gap: 20 },
 });

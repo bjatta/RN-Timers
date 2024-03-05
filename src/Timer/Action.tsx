@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     color: "white",
   },
   disabledText: {
-    fontWeight: "normal",
+    fontWeight: "bold",
     color: "gray",
   },
   buttonDisabledColor: { backgroundColor: "lightgray" },

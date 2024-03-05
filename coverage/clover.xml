@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692511709274" clover="3.2.0">
-  <project timestamp="1692511709274" name="All files">
+<coverage generated="1694698890792" clover="3.2.0">
+  <project timestamp="1694698890792" name="All files">
     <metrics statements="31" coveredstatements="31" conditionals="16" coveredconditionals="12" methods="15" coveredmethods="13" elements="62" coveredelements="56" complexity="0" loc="31" ncloc="31" packages="3" files="6" classes="6"/>
     <package name="RN-Timer">
       <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>

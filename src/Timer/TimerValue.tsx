@@ -18,5 +18,6 @@ const styles = StyleSheet.create({
   counterValueText: {
     fontWeight: "bold",
     fontSize: 24,
+    fontVariant: ["tabular-nums"],
   },
 });

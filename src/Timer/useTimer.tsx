@@ -4,7 +4,7 @@ export const useTimer = ({ initialValue = 0, period = 1000 }) => {
   const [value, setValue] = useState(initialValue);
   const [isRunning, setIsRunning] = useState(false);
   const timer = useRef(null);
-  const handleReset = () => setValue(0);
+  const handleReset = () => setValue(initialValue);
 
   const resetTimer = () => {
     clearInterval(timer.current);
