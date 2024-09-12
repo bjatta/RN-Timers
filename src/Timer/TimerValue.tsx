@@ -14,6 +14,7 @@ export const TimerValue = ({
   );
 };
 export const formatter = (value: number) => `${value}`;
+
 const styles = StyleSheet.create({
   counterValueText: {
     fontWeight: "bold",
